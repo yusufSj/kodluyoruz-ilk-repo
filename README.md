@@ -5,6 +5,17 @@ Kodluyoruz ilk repo readme.md dosyası
 ### Third Header
 ---
 
+```kotlin
+    
+    fun main(){
+
+        println("Yapmiyaww !!!")
+    
+    }
+
+````
+
+
 [GitHub Link](https://github.com/yusufSj)
 
 #### Random Cat Picture
