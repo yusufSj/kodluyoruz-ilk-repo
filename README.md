@@ -5,14 +5,12 @@ Kodluyoruz ilk repo readme.md dosyası
 ### Third Header
 ---
 
-```kotlin
-    
+```kotlin 
     fun main(){
 
         println("Yapmiyaww !!!")
     
     }
-
 ````
 
 
